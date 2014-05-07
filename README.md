@@ -29,22 +29,20 @@ Advantages:
 
 ======
 Step by step:
-1) After run application we show loading with our background. Then we click on image.
-2) We see 4 options with description: Children Education, Game, About us, Exit.
-3) If we click to 'Children Education' then we can run it. 
+- After run application we show loading with our background. Then we click on image.
+- We see 4 options with description: Children Education, Game, About us, Exit.
+- If we click to 'Children Education' then we can run it. 
 (Children can be teached using this option. They see default letter and try to show gesture letter.)
-
 From the beginning you initialize your hand position. You should move hand that IT INCLUDED HAND.
 After that we see INTERNATIONAL GESTURE ALPHABET, default alphabet, image via camera and result image. 
 Blue running rectangle must track hand position (if we have got bug with it then please, move hand in this rectangle).
 If you show gesture like in alphabet then software will recognize it and show in images.
 For end we should press 'Escape' and we will hear text-to-speech of all previous letters.
-4) If we click to 'Game' then we can run it 
+-If we click to 'Game' then we can run it 
 (After education cildren can be tested in gaming format.)
-
 It have got the same design and control,but...
 We see on the image via camera and follow to instuctions. For example, we show defined gesture and software show how right we did it.
-5)Also we can read about us and exit.
+- Also we can read about us and exit.
 
 
 =======
