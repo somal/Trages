@@ -7,6 +7,8 @@ Main aim:
 Mainly the application aim to deaf and mute children (other deaf-mute people can use it too!).
 They have great diffucalties in life and in education. We told with headmaster of N.Novgorod deaf-mute school who teach with children about 20 years using own innovative methods. And he told that this application is very important for his and children. So it's very important in EDUCATION.
 
+Attention:
+For working you should download, unpack 'source/pyc files.rar' and add this files into folder with application (GitHub requirement).
 ======
 Requrements:
 - simple camera ( It can be web camera, embedded camera in smartphone etc)
@@ -28,8 +30,6 @@ Advantages:
 - affortabling
 - colorful design (It's veru important for deaf and mute children)
 
-======
-For working you should download, unpack 'source/pyc files.rar' and add this files into folder with application (GitHub requirement).
 ======
 Step by step:
 - After run application we show loading with our background. Then we click on image.
