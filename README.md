@@ -18,6 +18,7 @@ Requrements:
 - NumPy (library for work with arrays; http://www.numpy.org/)
 - demo version of recognition (We add this application, source of code with using of KIVY,but we don't want to add All recognition. So we add only 4 letters for the beginning ('A','L','C','H')
 
+
 Advantages:
 - cross-platform (Windows, Linux, Mac OS)
 - high-accuracy application (about 95%)
@@ -27,6 +28,8 @@ Advantages:
 - affortabling
 - colorful design (It's veru important for deaf and mute children)
 
+======
+For working you should download, unpack 'source/pyc files.rar' and add this files into folder with application (GitHub requirement).
 ======
 Step by step:
 - After run application we show loading with our background. Then we click on image.
