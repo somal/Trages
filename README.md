@@ -38,7 +38,7 @@ After that we see INTERNATIONAL GESTURE ALPHABET, default alphabet, image via ca
 Blue running rectangle must track hand position (if we have got bug with it then please, move hand in this rectangle).
 If you show gesture like in alphabet then software will recognize it and show in images.
 For end we should press 'Escape' and we will hear text-to-speech of all previous letters.
--If we click to 'Game' then we can run it 
+- If we click to 'Game' then we can run it 
 (After education cildren can be tested in gaming format.)
 It have got the same design and control,but...
 We see on the image via camera and follow to instuctions. For example, we show defined gesture and software show how right we did it.
