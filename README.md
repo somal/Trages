@@ -1,7 +1,7 @@
 Trages
 ======
 
-We are command of students from N.Novgorod, Russia. We wrote application which translate gestures via simple camera to text or speech. And after that we wrote GUI using beatiful framework Kivy. So we are particapating in Kivy Contest #2.
+We are command of students from N.Novgorod, Russia. We wrote application which translate gestures via simple camera to text or speech. And after that we wrote GUI using beautiful framework Kivy. So we are particapating in Kivy Contest #2.
 
 Main aim:
 Mainly the application aim to deaf and mute children (other deaf-mute people can use it too!).
